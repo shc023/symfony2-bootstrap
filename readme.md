@@ -18,7 +18,8 @@ Symfony Bootstrap is a base [symfony 2.1](http://symfony.com/) package that is s
 
 Using [composer](http://getcomposer.org/)'s global install:
 
-	composer create-project cbednarski/symfony-bootstrap path/
+	$ git://github.com/cbednarski/symfony2-bootstrap.git
+	$ composer install
 
 Execute the `check.php` script from the command line:
 
