@@ -20,6 +20,8 @@ Symfony 2.1 and most of the dependent projects are in beta / RC status right now
 
 ## Install
 
+Remove `composer.lock` from `.gitignore`. You should use the one created after you run `composer install` (below).
+
 Using [composer](http://getcomposer.org/)'s global install:
 
 	$ git://github.com/cbednarski/symfony2-bootstrap.git
