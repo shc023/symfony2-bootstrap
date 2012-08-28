@@ -1,8 +1,11 @@
-/web/bundles/
 /app/bootstrap.php.cache
 /app/cache/*
 /app/logs/*
-/build/
-/vendor
-/bin
+/build/*
+/bin/*
 /composer.phar
+/vendor/*
+/web/bundles/*
+
+# Note: You probably want to remove this in your project
+/composer.lock
