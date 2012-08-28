@@ -7,6 +7,13 @@ Symfony Bootstrap is a base [symfony 2.1](http://symfony.com/) package that is s
 - (+) Default symfony 2.1 goodies
 - (-) Acme Demo bundle
 
+## Things I'd Like to Add
+
+- (+) Twitter Bootstrap
+- (+) SASS
+- (+) MongoDB
+- (+) Cache
+
 ## Install
 
 Using [composer](http://getcomposer.org/)'s global install:
