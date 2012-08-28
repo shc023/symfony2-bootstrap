@@ -12,7 +12,7 @@ Symfony 2.1 and most of the dependent projects are in beta / RC status right now
 - (-) Acme Demo bundle
 - (+) MongoDB
 
-## Things I'd Like to Add
+## Things We'd Like to Add
 
 - (+) Twitter Bootstrap
 - (+) SASS
@@ -20,9 +20,7 @@ Symfony 2.1 and most of the dependent projects are in beta / RC status right now
 
 ## Install
 
-Remove `composer.lock` from `.gitignore`. You should use the one created after you run `composer install` (below).
-
-Using [composer](http://getcomposer.org/)'s global install:
+Dependencies are installed using [composer](http://getcomposer.org/). We recommend using composer's global install.
 
 	$ git://github.com/cbednarski/symfony2-bootstrap.git
 	$ composer install
