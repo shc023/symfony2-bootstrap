@@ -7,18 +7,11 @@ Symfony Bootstrap is a base [symfony 2.1.6](http://symfony.com/) package that is
 - (+) Default symfony 2.1 goodies
 - (-) Acme Demo bundle
 
-## Things We'd Like to Add
-
-- (+) Twitter Bootstrap
-- (+) SASS
-- (+) Cache
-- (+) MongoDB
-
 ## Install
 
 Dependencies are installed using [composer](http://getcomposer.org/). We recommend using composer's global install.
 
-	$ git://github.com/cbednarski/symfony2-bootstrap.git
+	$ git clone git://github.com/cbednarski/symfony2-bootstrap.git
 	$ composer install
 
 Execute the `check.php` script from the command line:
